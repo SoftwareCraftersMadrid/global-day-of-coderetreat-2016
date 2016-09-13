@@ -13,30 +13,30 @@
 
 ### Scheduled
 
-- 09:00 - 09:30 : Introduction
-- 09:40 - 10:25 :  Session 1
-- 10:25 - 10:40 : Retrospective
-- 10:40 - 11:25 :  Session 2
-- 11:25 - 12:40 : Retrospective
-- 12:40 - 13:25 :  Session 3
-- 13:25 - 13:40 : Retrospective
-- 13:40 - 15:00 :  Lunch
-- 15:00 - 15:45 :  Session 4
-- 15:45 - 16:00 : Retrospective
-- 16:00 - 16:45 :  Session 5
-- 16:45 - 17:00 : Retrospective
-- 17:00 - 17:35 :  Session 6
-- 17:35 - 18:00 : final Retrospective
+- 09:00 - 09:30 : Introduction (30 min)
+- 09:40 - 10:25 :  Session 1 (45 min)
+- 10:25 - 10:40 : Retrospective (15 min)
+- 10:45 - 11:30 :  Session 2 (45 min)
+- 11:30 - 11:45 : Retrospective (15 min)
+- 11:50 - 12:35 :  Session 3 (45 min)
+- 12:35 - 12:50 : Retrospective (15 min)
+- 12:50 - 14:20 :  Lunch (1h 30m)
+- 14:30 - 15:15 :  Session 4 (45 min)
+- 15:15 - 15:30 : Retrospective (15 min)
+- 15:35 - 16:20 :  Session 5 (45 min)
+- 16:20 - 16:35 : Retrospective (15 min)
+- 16:40 - 17:25 :  Session 6 (45 min)
+- 17:25 - 18:00 : Final Retrospective (30 min)
 
 ### Be Social
 - Facilitators: @craftsmanmadrid #gdcr16Madrid
 - Hoster: @idealista #creamcode
-- Gloabl: @coderetreat #gdcr16
+- Global: @coderetreat #gdcr16
 
 ### Session Activities (Constrains)
 - Session 1 => Ping-Pong
-- Session 2 => :alarm_clock:
-- Session 3 => :alarm_clock:
-- Session 4 => :alarm_clock:
-- Session 5 => :alarm_clock:
-- Session 6 => :alarm_clock:
+- Session 2 => ...
+- Session 3 => ...
+- Session 4 => ...
+- Session 5 => ...
+- Session 6 => ...
