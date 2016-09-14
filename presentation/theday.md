@@ -29,9 +29,9 @@
 - 17:25 - 18:00 : Final Retrospective (30 min)
 
 ### Be Social
-- Facilitators: @craftsmanmadrid #gdcr16Madrid
-- Hoster: @idealista #creamcode
-- Global: @coderetreat #gdcr16
+- Facilitators: [@craftsmanmadrid](https://twitter.com/craftsmanmadrid) #gdcr16Madrid
+- Hoster: [@idealista](https://twitter.com/idealista) #creamcode
+- Global: [@coderetreat](https://twitter.com/coderetreat) #gdcr16
 
 ### Session Activities (Constrains)
 - Session 1 => Ping-Pong
