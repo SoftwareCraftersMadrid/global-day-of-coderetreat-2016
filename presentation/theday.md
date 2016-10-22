@@ -39,4 +39,4 @@
 - Session 3 => No Mouse + 3 minutes limit discussion
 - Session 4 => No conditional statements
 - Session 5 => Mute Session
-- Session 6 => ...
+- Session 6 => Code swap
