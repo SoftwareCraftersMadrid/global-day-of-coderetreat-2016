@@ -38,5 +38,5 @@
 - Session 2 => No naked primitives
 - Session 3 => No Mouse + 3 minutes limit discussion
 - Session 4 => No conditional statements
-- Session 5 => ...
+- Session 5 => Mute Session
 - Session 6 => ...
